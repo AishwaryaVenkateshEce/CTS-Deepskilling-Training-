@@ -23,7 +23,7 @@ public class ArrayActAssertTest {
     }
     @Test
     public void testSub(){
-        int result=AAA.add(10,4);
+        int result=AAA.sub(10,4);
         assertEquals(6,result);
     }
 }
