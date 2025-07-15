@@ -1,0 +1,3 @@
+### Get JWT Token
+GET http://localhost:8091/authenticate
+Authorization: Basic dXNlcjpwd2Q=
